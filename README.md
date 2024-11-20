@@ -14,6 +14,7 @@
   <li><a href="contact.asp">Contact</a></li>
   <li><a href="about.asp">About</a></li>
 </ul>
+
         <h1>Welcome to Angela Dizon’s Hub for Health Informatics and Digital Innovation</h1>
         <p>Explore the intersection of healthcare, technology, and innovative solutions to today’s most pressing challenges. From revolutionizing patient care with AI-driven tools to designing systems that empower clinicians and patients alike, Angela Dizon’s platform is your gateway to the future of health informatics.
         
