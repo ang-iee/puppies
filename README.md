@@ -14,7 +14,7 @@
             
             Join me as I bridge the gap between innovation and impact—because the future of healthcare starts here.</p>
             <h2>Wow a second header!?</h2>
-            <img src="puppy.jpg" width="800px"></body><br/> 
+            <img src="[puppy.jpg](https://github.com/ang-iee/puppies/blob/main/puppy.jpeg)" width="800px"></body><br/> 
             So cute!<br/>
         </body> 
     </html>
